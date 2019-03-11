@@ -187,9 +187,9 @@ font-size: 2px;
 .info_data_link{
   text-align: center;
   display: block;
+  margin-top: 5px;
   height: 65px;
-  width: 114px;
-  padding: 5px;
+  width: 33%;
   float: left;
 }
 

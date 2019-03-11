@@ -7,8 +7,17 @@
 
 <script>
 import bottom from './components/bottom/bottom'
+import {mapActions} from 'Vuex'
 export default {
   name: 'App',
+   methods: {
+     ...mapActions([
+         'getAddress'
+       ])
+   },
+  //  mounted() {
+  //    this.$store.dispatch('getAddress')
+  //  },
   components:{
     bottom
   }

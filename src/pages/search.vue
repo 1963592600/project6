@@ -34,7 +34,7 @@
 
 .search_form{
     text-align: center;
-    padding: 10px;
+    padding: 25px;
     line-height: 57px;
 }
 

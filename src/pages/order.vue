@@ -38,7 +38,7 @@ import headertop from '../components/headertop/headertop'
 }
 
 h3{
-    margin: 10px;
+    margin: 25px;
 }
 
 button{
@@ -46,7 +46,7 @@ button{
     color: white;
     border: 0;
     border-radius: 2px;
-    width: 20%;
+    width: 25%;
     height: 35px;
     outline: none;
 }

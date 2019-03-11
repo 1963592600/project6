@@ -14,7 +14,7 @@
   <headertop class="home-header">
     <i slot='search' class="iconfont icon-search"></i>
     
-    <span class="title" slot="title">这里是地址搜索</span>
+    <span class="title" slot="title">这里是地址搜索这里是地址搜索这里是地址搜索</span>
     
     <span slot="login" class="login-text">登录|注册</span>
     
@@ -26,102 +26,102 @@
         <div class="swiper-slide ">
           <a href="javascript:" class="link_to_food item">
             <div class="food_container">
-              <img src="../../static/image/home-nav-1.png">
+              <img src="../../static/image/home-nav.png">
             </div>
             <span>甜品饮品</span>
           </a>
           <a href="javascript:" class="link_to_food item">
             <div class="food_container">
-              <img src="../../static/image/home-nav-1.png">
-            </div>
-            <span>商超便利</span>
-          </a>
-          <a href="javascript:" class="link_to_food item">
-            <div class="food_container">
-              <img src="../../static/image/home-nav-1.png">
+              <img src="../../static/image/home-nav.png">
             </div>
             <span>甜品饮品</span>
           </a>
           <a href="javascript:" class="link_to_food item">
             <div class="food_container">
-              <img src="../../static/image/home-nav-1.png">
-            </div>
-            <span>商超便利</span>
-          </a>
-          <a href="javascript:" class="link_to_food item">
-            <div class="food_container">
-              <img src="../../static/image/home-nav-2.png">
+              <img src="../../static/image/home-nav.png">
             </div>
             <span>甜品饮品</span>
           </a>
           <a href="javascript:" class="link_to_food item">
             <div class="food_container">
-              <img src="../../static/image/home-nav-2.png">
-            </div>
-            <span>商超便利</span>
-          </a>
-          <a href="javascript:" class="link_to_food item">
-            <div class="food_container">
-              <img src="../../static/image/home-nav-2.png">
+              <img src="../../static/image/home-nav.png">
             </div>
             <span>甜品饮品</span>
           </a>
           <a href="javascript:" class="link_to_food item">
             <div class="food_container">
-              <img src="../../static/image/home-nav-2.png">
+              <img src="../../static/image/home-nav.png">
             </div>
-            <span>商超便利</span>
+            <span>甜品饮品</span>
+          </a>
+          <a href="javascript:" class="link_to_food item">
+            <div class="food_container">
+              <img src="../../static/image/home-nav.png">
+            </div>
+            <span>甜品饮品</span>
+          </a>
+          <a href="javascript:" class="link_to_food item">
+            <div class="food_container">
+              <img src="../../static/image/home-nav.png">
+            </div>
+            <span>甜品饮品</span>
+          </a>
+          <a href="javascript:" class="link_to_food item">
+            <div class="food_container">
+              <img src="../../static/image/home-nav.png">
+            </div>
+            <span>甜品饮品</span>
           </a>
           <!--下面的图片省略-->
         </div>
         <div class="swiper-slide ">
           <a href="javascript:" class="link_to_food item">
             <div class="food_container">
-              <img src="../../static/image/home-nav-3.png">
+              <img src="../../static/image/home-nav.png">
             </div>
             <span>甜品饮品</span>
           </a>
           <a href="javascript:" class="link_to_food item">
             <div class="food_container">
-              <img src="../../static/image/home-nav-3.png">
-            </div>
-            <span>商超便利</span>
-          </a>
-          <a href="javascript:" class="link_to_food item">
-            <div class="food_container">
-              <img src="../../static/image/home-nav-3.png">
+              <img src="../../static/image/home-nav.png">
             </div>
             <span>甜品饮品</span>
           </a>
           <a href="javascript:" class="link_to_food item">
             <div class="food_container">
-              <img src="../../static/image/home-nav-3.png">
-            </div>
-            <span>商超便利</span>
-          </a>
-          <a href="javascript:" class="link_to_food item">
-            <div class="food_container">
-              <img src="../../static/image/home-nav-4.png">
+              <img src="../../static/image/home-nav.png">
             </div>
             <span>甜品饮品</span>
           </a>
           <a href="javascript:" class="link_to_food item">
             <div class="food_container">
-              <img src="../../static/image/home-nav-4.png">
-            </div>
-            <span>商超便利</span>
-          </a>
-          <a href="javascript:" class="link_to_food item">
-            <div class="food_container">
-              <img src="../../static/image/home-nav-4.png">
+              <img src="../../static/image/home-nav.png">
             </div>
             <span>甜品饮品</span>
           </a>
           <a href="javascript:" class="link_to_food item">
             <div class="food_container">
-              <img src="../../static/image/home-nav-4.png">
+              <img src="../../static/image/home-nav.png">
             </div>
-            <span>商超便利</span>
+            <span>甜品饮品</span>
+          </a>
+          <a href="javascript:" class="link_to_food item">
+            <div class="food_container">
+              <img src="../../static/image/home-nav.png">
+            </div>
+            <span>甜品饮品</span>
+          </a>
+          <a href="javascript:" class="link_to_food item">
+            <div class="food_container">
+              <img src="../../static/image/home-nav.png">
+            </div>
+            <span>甜品饮品</span>
+          </a>
+          <a href="javascript:" class="link_to_food item">
+            <div class="food_container">
+              <img src="../../static/image/home-nav.png">
+            </div>
+            <span>甜品饮品</span>
           </a>
           <!--同样省略-->
         </div>
@@ -181,29 +181,28 @@ import shoplist from '../components/shoplist/shoplist'
     font-size: 25px;
 }
 
-
-
 .home-nav{
     position: fixed;
     top: 45px;
     color: #000;
     width: 100%;
-    height: 250px;
+    height: 200px;
     background: #fff
 }
 
 .item{
-  padding: 10px 5px 0 8px;
+  padding: 10px 0 0 0;
   text-decoration: none;
   text-align: center;
   color: #000;
   float: left;
+  width: 25%
 }
 
-.swiper-container{
+/* .swiper-container{
   width: 375px;
  
-}
+} */
 
 .swiper-pagination{
   position: relative;
@@ -213,18 +212,14 @@ import shoplist from '../components/shoplist/shoplist'
 .shop_header{
   width: 100%;
   height: 25px;
-  top: 290px;
+  top: 240px;
   padding: 5px;
   position: fixed;
   background: #fff;
   border-top: 1px solid rgb(192, 192, 192)
 }
 
-.shop_title{
-  float: left;
-  font-size: 22px;
-  color: #000;
-}
+
 
 .shop_header .iconfont{
   line-height: 22px;

@@ -30,15 +30,21 @@
 
 .search{
     padding:0 15px;
+     width: 10%;
 }
 
 .title{
     font-size: 22px;
+    white-space: nowrap;
+    overflow:hidden; 
+    text-overflow: ellipsis;
+    width: 65%;
 }
 
 .login{
     font-size: 16px;
-    padding: 0 15px;
+    padding: 0 5px;
+    width: 25%;
 }
 
 </style>
