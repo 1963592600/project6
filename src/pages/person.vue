@@ -174,7 +174,7 @@ color: #fff;
 }
 
 .user-icon, .icon-mobile-number{
-font-size: 2px;
+font-size: 12px;
 }
 
 
